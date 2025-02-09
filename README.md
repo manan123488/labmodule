@@ -1,4 +1,4 @@
-# Flutter E-commerce App with Admin Panel
+# Flutter online Shopping(ShopSphere) App with Admin Panel
 
 ## Purpose  
 This project is a Flutter-based mobile application designed to provide users with a platform to browse products, manage their accounts, and place orders. It also includes a comprehensive admin panel for managing users, products, orders, and notifications.
